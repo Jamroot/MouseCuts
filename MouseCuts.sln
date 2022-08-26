@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MouseCuts", "MouseCuts.vbproj", "{DF50DBC8-7CBD-4826-A88F-2BFF0E4F6CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "..\Controller\Controller.csproj", "{DBDC2F09-2F3A-4863-9B2F-D9612F559E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF50DBC8-7CBD-4826-A88F-2BFF0E4F6CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF50DBC8-7CBD-4826-A88F-2BFF0E4F6CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF50DBC8-7CBD-4826-A88F-2BFF0E4F6CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF50DBC8-7CBD-4826-A88F-2BFF0E4F6CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC2F09-2F3A-4863-9B2F-D9612F559E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC2F09-2F3A-4863-9B2F-D9612F559E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC2F09-2F3A-4863-9B2F-D9612F559E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC2F09-2F3A-4863-9B2F-D9612F559E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD27DF5-EFC6-499E-BC41-2CF16234FF85}
+	EndGlobalSection
+EndGlobal
