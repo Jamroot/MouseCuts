@@ -2,7 +2,13 @@
 
 namespace Controller
 {
-    public class Class1
+    public class controller
     {
+    }
+
+    struct shortcut
+    {
+    
+    
     }
 }
